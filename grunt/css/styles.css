@@ -1,0 +1,15 @@
+body {
+  background-color: #666; }
+  body p {
+    background-color: #000; }
+  body h1 {
+    color: red; }
+  body span {
+    background-color: blue; }
+
+.rectangle {
+  width: 200px;
+  height: 100px;
+  background: orange; }
+
+/*# sourceMappingURL=styles.css.map */
